@@ -1,0 +1,81 @@
+Santa Barbara Corpus of Spoken American English Part-II
+
+  
+
+Units 
+    Intonation Unit			RETURN 
+    Truncated intonation unit		-- 
+    word				SPACE 
+    truncated word			_ 
+
+Speakers 
+    Speaker identity/turn start		: 
+    Speech overlap			[ ] 
+
+Transitional Continuity 
+    Final				. 
+    Continuing				, 
+    Appeal				? 
+
+Terminal Pitch Direction 
+    Fall				\ 
+    Rise				/ 
+    Level				- 
+
+Accent and Lengthening 
+    Primary accent			^ 
+    Secondary accent			' 
+    Booster				! 
+    Lengthening				= 
+
+Tone 
+    Fall				\ 
+    Rise				/ 
+    Fall-rise				\/ 
+    Rise-fall				/\ 
+    Level				- 
+
+Pause 
+    Long				...(N) 
+    Medium				... 
+    Short				.. 
+    Latching				(0) 
+
+Vocal Noises 
+    Vocal noises			( ) 
+    Inhalation				(H) 
+    Exhalation				(Hx) 
+    Glottal stop			% 
+    Laughter				@ 
+
+Quality 
+    Quality				<Y  Y> 
+    Laugh quality			<@  @> 
+    Quotation quality			<Q  Q> 
+    Multiple quality features		<Y  <Z  Z>  Y> 
+
+Phonetics 
+    Phonetic transcription		(/  /) 
+
+Transcriber's Perspective 
+    Researcher's comments		((  )) 
+    Uncertain hearing			<X  X> 
+    Indecipherable syllable		X 
+
+Specialized notation 
+    Duration				(N) 
+    Intonation unit continued		& 
+    Intonation subunit boundary		| 
+    Embedded intonation unit		<| |> 
+    Reset 
+    False start				< >
+    Codeswitching			<L2 L2> 
+
+Non-transcription Lines 
+    Comment				$
+    Interlinear gloss			$G
+
+Reserved Symbols 
+    Phonemic/orthographic		, 
+    Morphosyntactic coding		 = * # { } 
+    User-definable			 " ~ ; 
